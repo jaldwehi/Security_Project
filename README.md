@@ -33,15 +33,9 @@ This project is part of the **SWE 481 - Software Security** course. It presents 
 
 ---
 
-## Scan Results
-
--Using OWASP ZAP, the following were detected:
-
--Missing CSRF tokens
-
--No CSP or Clickjacking headers
-
--Info leakage via headers
-
+## Known Vulnerabilities
+- SQL Injection
+- No CSRF protection
+- Missing security headers
 
 
